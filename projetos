@@ -22,7 +22,7 @@
             <img src="foto 1.jpg" alt="">
         </div>
         <div class="home-content">
-            <h1>Olá,sou <span>Jefferson</span></h1>
+            <h1>Olá, me chamo <span>Jefferson</span></h1>
             <h3 class="typing-text">Eu sou! <span></span></h3>
             <p>Sou um entusiasta da tecnologia, apaixonado por aprender e evoluir dentro do vasto universo da TI. Embora esteja no início da minha jornada profissional, estou comprometido em desenvolver habilidades técnicas e adquirir conhecimentos que me capacitem a enfrentar os desafios mais complexos da área. Cada um novo projeto é uma oportunidade de crescimento e inovação, e estou sempre em busca de soluções criativas e eficientes. Com dedicação e um olhar atento às tendências do setor, tenho a certeza de que posso contribuir positivamente para o ambiente tecnológico, trazendo ideias</p>
             <div class="social-icons">
